@@ -5,7 +5,7 @@
     'complexity': 'Facil',
     'description': 'Datos de un taller',
     'category': '',
-    'depends': ['website'],
+    'depends': ['website','qweb'],
     'data': [
     	'views/web_view.xml'
     ],
