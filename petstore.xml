@@ -14,6 +14,11 @@
             parent="main_petstore_menu" />
 
 
+<<<<<<< HEAD
+=======
+        <menuitem id="home_page_petstore_menu" name="Home Page" parent="petstore_menu"
+            action="action_home_page"/>
+>>>>>>> a02bd03b531aaadf01c1dc51a07ae9369cd6cb1f
 
         <record model="ir.actions.act_window" id="pet_toys_action">
             <field name="name">Pet Toys</field>
